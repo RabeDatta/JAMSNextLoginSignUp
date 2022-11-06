@@ -1,0 +1,19 @@
+:root {
+  --primary: #fff;
+
+  /* frontpage btn */
+  --sec: rgb(161, 203, 70);
+  --txt-color: black;
+
+  --theme: rgb(100, 149, 237);
+  --light1: #f3f4f6;
+
+  --light2: #e5e7eb;
+  --red: #dc2626;
+
+  --bs: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
